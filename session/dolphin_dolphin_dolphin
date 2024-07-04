@@ -1,0 +1,9 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1bfile:///home/fratch/.config\x00\x00\x00\x00\x01\x00\x00\x00\x1ffile:///home/fratch/.config/yay\x00\x00\x00\x0f\x00\x00\x00!file:///home/fratch/.config/dconf\x00\x00\x00%file:///home/fratch/.config/fastfetch\x00\x00\x00 file:///home/fratch/.config/fish\x00\x00\x00#file:///home/fratch/.config/gtk-3.0\x00\x00\x00 file:///home/fratch/.config/hypr\x00\x00\x00#file:///home/fratch/.config/kde.org\x00\x00\x00!file:///home/fratch/.config/kitty\x00\x00\x00!file:///home/fratch/.config/pulse\x00\x00\x00 file:///home/fratch/.config/rofi\x00\x00\x00#file:///home/fratch/.config/session\x00\x00\x00$file:///home/fratch/.config/swaylock\x00\x00\x00#file:///home/fratch/.config/systemd\x00\x00\x00\x1ffile:///home/fratch/.config/vlc\x00\x00\x00"file:///home/fratch/.config/waybar\x00\x00\x00\x1ffile:///home/fratch/.config/yay\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
